@@ -3,5 +3,5 @@ This project leverages **YOLO (You Only Look Once)**, a real-time object detecti
 
 ## 🔍 Project Goals 
 - Detect and track players and the ball in football match videos.
-- - Analyze player movement trajectories and formations.
-  - - Estimate ball possession time for each team.
+- Analyze player movement trajectories and formations.
+- Estimate ball possession time for each team.
